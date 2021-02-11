@@ -20,8 +20,8 @@ The provided source files contain the PyTorch-based code for training fully-conn
 
 In order to reproduce our experiments in the associated paper (see below), the error-sign-based variant of DFA (sDFA) and shallow learning are also available.
 
-In case you decide to use the source code for academic or commercial use, we would appreciate if you let us know; **feedback is welcome**. Upon usage of the source code, **please cite the associated paper** (also available [here](https://arxiv.org/pdf/1909.01311.pdf)):
+In case you decide to use the source code for academic or commercial use, we would appreciate if you let us know; **feedback is welcome**. Upon usage of the source code, **please cite the associated paper** (available [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.629892/full)):
 
-> C. Frenkel, M. Lefebvre and D. Bol, "Learning without feedback: Direct random target projection as a feedback-alignment algorithm with layerwise feedforward training," *arXiv preprint arXiv:1909.01311*, 2019.
+> C. Frenkel, M. Lefebvre and D. Bol, "Learning without feedback: Fixed Random Learning Signals Allow for Feedforward Training of Deep Neural Networks," *Frontiers in Neuroscience*, vol. 15, no. 629892, 2021. doi: 10.3389/fnins.2021.629892
 
 Instructions on how to use the code are available in the [main.py](main.py) source file.

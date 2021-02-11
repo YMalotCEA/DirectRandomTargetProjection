@@ -31,8 +31,9 @@ limitations under the License.
 
  Authors:  C. Frenkel and M. Lefebvre, Université catholique de Louvain (UCLouvain), 09/2019
 
- Cite/paper: C. Frenkel, M. Lefebvre and D. Bol, "Learning without feedback: Direct random target projection
-    as a feedback-alignment algorithm with layerwise feedforward training," arXiv preprint arXiv:1909.01311, 2019.
+ Cite/paper: C. Frenkel, M. Lefebvre and D. Bol, "Learning without feedback:
+             Fixed random learning signals allow for feedforward training of deep neural networks,"
+             Frontiers in Neuroscience, vol. 15, no. 629892, 2021. doi: 10.3389/fnins.2021.629892
 
 ------------------------------------------------------------------------------
 """
