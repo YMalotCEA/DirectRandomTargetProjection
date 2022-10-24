@@ -40,8 +40,8 @@ limitations under the License.
 
 
 import argparse
-import train
-import setup
+import engine.train as train
+import engine.setup as setup
 
 def main():
     parser = argparse.ArgumentParser(description='Training fully-connected and convolutional networks using backpropagation (BP), feedback alignment (FA), direct feedback alignment (DFA), and direct random target projection (DRTP)')
