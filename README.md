@@ -6,9 +6,9 @@
 
 > *The software and materials distributed under this license are provided in the hope that it will be useful on an **'as is' basis, without warranties or conditions of any kind, either expressed or implied; without even the implied warranty of merchantability or fitness for a particular purpose**. See the Apache v2.0 license for more details.*
 
-> *You should have received a copy of the Apache v2.0 license along with the source code files (see [LICENSE](LICENSE) file). If not, see <https://www.apache.org/licenses/LICENSE-2.0>.*
+> *You should have received a copy of the Apache v2.0 license along with the source code files (see [res/LICENSE](LICENSE) file). If not, see <https://www.apache.org/licenses/LICENSE-2.0>.*
 
-| ![Topologies](training_algorithms_topologies.png) |
+| ![Topologies](res/training_algorithms_topologies.png) |
 |:--:|
 | *Fig. 1 - (a) Backpropagation of error algorithm (BP).  (b) Feedback alignment (FA) [Lillicrap et al., Nat. Comms., 2016].  (c) Direct feedback alignment (DFA) [Nokland, NIPS, 2016].  (d) Proposed direct random target projection (DRTP) algorithm.* |
 
